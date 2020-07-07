@@ -1,4 +1,1 @@
-### Hi there 👋
-Backend Developer @ iZettle, a PayPal service
-
-[LinkedIn](https://www.linkedin.com/in/igorleal/) 
+![YES, THIS IS DOG](https://media.giphy.com/media/pSpmpxFxFwDpC/giphy.gif)
